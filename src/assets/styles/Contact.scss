@@ -10,7 +10,7 @@
   button {
     float: right;
     background-color: white;
-    color: #050f0b;
+    color: #050f0b; /* Black color for button text */
   }
 
   button:hover {
@@ -26,6 +26,7 @@
 label {
   font-size: 1.2rem;
   font-family: 'DomaineDispNar-Medium', sans-serif;
+  color: #050f0b; /* Black color for label text */
 }
 
 .form-flex {
@@ -45,4 +46,8 @@ form {
 .body-form {
   width: 100% !important;
   margin-bottom: 15px !important;
+}
+
+input, textarea, label {
+  color: #050f0b; /* Black color for input, textarea, and label text */
 }
