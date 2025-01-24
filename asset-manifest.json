@@ -1,27 +1,21 @@
 {
   "files": {
-    "main.css": "/vishal.github.io/static/css/main.ec476998.css",
-    "main.js": "/vishal.github.io/static/js/main.cb554f0c.js",
+    "main.css": "/vishal.github.io/static/css/main.c988b000.css",
+    "main.js": "/vishal.github.io/static/js/main.061cf898.js",
     "static/js/453.b05d8aa5.chunk.js": "/vishal.github.io/static/js/453.b05d8aa5.chunk.js",
-    "static/media/mock10.png": "/vishal.github.io/static/media/mock10.2d05b02ba569a430a255.png",
-    "static/media/mock09.png": "/vishal.github.io/static/media/mock09.e18677ccfc932e52d754.png",
-    "static/media/mock08.png": "/vishal.github.io/static/media/mock08.13f46873fdbd382f4b76.png",
-    "static/media/mock04.png": "/vishal.github.io/static/media/mock04.f7b5679efade992a078c.png",
+    "static/media/mock14.png": "/vishal.github.io/static/media/mock14.dbb651d9ddd03d871cd5.png",
+    "static/media/mock08.png": "/vishal.github.io/static/media/mock08.1c14f5b74cecc2a55390.png",
+    "static/media/mock12.png": "/vishal.github.io/static/media/mock12.d79f3e949ceaf4a669b8.png",
     "static/media/bg-light.png": "/vishal.github.io/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/mock07.png": "/vishal.github.io/static/media/mock07.3f1110f482232b33c6a2.png",
-    "static/media/mock05.png": "/vishal.github.io/static/media/mock05.4faafa70d200d1519a34.png",
-    "static/media/mock06.png": "/vishal.github.io/static/media/mock06.ea816617e0d0fa0f63ca.png",
+    "static/media/mock11.png": "/vishal.github.io/static/media/mock11.a9c119416baddfd2f627.png",
     "static/media/bg-dark.png": "/vishal.github.io/static/media/bg-dark.f420c6b8458af72de935.png",
-    "static/media/mock01.png": "/vishal.github.io/static/media/mock01.61bd486a54bf6e17ee5a.png",
-    "static/media/mock02.png": "/vishal.github.io/static/media/mock02.bced48ae9cdda3acf1a3.png",
-    "static/media/mock03.png": "/vishal.github.io/static/media/mock03.a4600719e0b5d2a3155b.png",
     "index.html": "/vishal.github.io/index.html",
-    "main.ec476998.css.map": "/vishal.github.io/static/css/main.ec476998.css.map",
-    "main.cb554f0c.js.map": "/vishal.github.io/static/js/main.cb554f0c.js.map",
+    "main.c988b000.css.map": "/vishal.github.io/static/css/main.c988b000.css.map",
+    "main.061cf898.js.map": "/vishal.github.io/static/js/main.061cf898.js.map",
     "453.b05d8aa5.chunk.js.map": "/vishal.github.io/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec476998.css",
-    "static/js/main.cb554f0c.js"
+    "static/css/main.c988b000.css",
+    "static/js/main.061cf898.js"
   ]
 }
